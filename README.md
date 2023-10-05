@@ -3,7 +3,7 @@ Text summarizer using billsum dataset on T5-small transformer.
 
 ## Model Details
 - t5-small text summarizer model.
-- trained model is available in HuggingFace Models Link: [ClickHere]([Abijith/Billsum-text-summarizer-t5-small](https://huggingface.co/Abijith/Billsum-text-summarizer-t5-small))
+- trained model is available in HuggingFace Models Link: [ClickHere](https://huggingface.co/Abijith/Billsum-text-summarizer-t5-small)
 
 ## Run in local
 - Install all the dependencies ``` pip install requirement.txt ```
